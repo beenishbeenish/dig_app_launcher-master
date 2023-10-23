@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636524686645",
+    "project_id": "dig-app-launcher",
+    "storage_bucket": "dig-app-launcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636524686645:android:3e364ad56a25f11046f07c",
+        "android_client_info": {
+          "package_name": "com.cherrybyte.digapplauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636524686645-ugnhfh4cq2a9705qspiq7c5fa66q2vb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5S_4NPte1rj8BmPhP0hXRn3QoqpgnXp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636524686645-ugnhfh4cq2a9705qspiq7c5fa66q2vb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
